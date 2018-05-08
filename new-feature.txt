@@ -1,3 +1,6 @@
 new feature file in new-feature brach created
 
+
 changes made in master branch
+and
+some feature added

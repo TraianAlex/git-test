@@ -1,1 +1,3 @@
 new feature file in new-feature brach created
+
+some feature added

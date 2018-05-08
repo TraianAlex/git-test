@@ -1,6 +1,3 @@
 Hello World!
 
 fixed a bug in master
-
-add new feature in new-feature branch
-

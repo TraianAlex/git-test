@@ -1,1 +1,2 @@
 Hello World!
+fixed a bug in master
